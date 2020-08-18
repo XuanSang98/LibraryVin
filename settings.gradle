@@ -1,0 +1,3 @@
+include ':vinsdks'
+include ':app'
+rootProject.name = "vinsdk"
